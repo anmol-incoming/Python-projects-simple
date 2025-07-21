@@ -1,0 +1,44 @@
+{
+    "test": {
+        "Password": "1234",
+        "Amount": 8000,
+        "Transction History": [
+            {
+                "type": "Deposit",
+                "amount": 6500,
+                "time": "22-07-2025 02:06:21"
+            },
+            {
+                "type": "Withdrawl",
+                "amount": 500,
+                "time": "22-07-2025 02:47:41"
+            },
+            {
+                "type": "Withdrawl",
+                "amount": 3000,
+                "time": "22-07-2025 02:48:12"
+            },
+            {
+                "type": "Deposit",
+                "amount": 5000,
+                "time": "22-07-2025 02:48:37"
+            }
+        ]
+    },
+    "john cena": {
+        "Password": "5555",
+        "Amount": 3365250,
+        "Transction History": [
+            {
+                "type": "Deposit",
+                "amount": 3355000,
+                "time": "22-07-2025 03:00:47"
+            },
+            {
+                "type": "Withdrawl",
+                "amount": 250,
+                "time": "22-07-2025 03:15:18"
+            }
+        ]
+    }
+}
