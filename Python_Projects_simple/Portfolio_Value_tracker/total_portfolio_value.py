@@ -21,4 +21,3 @@ def total_value(all_users,current_user):
 
     
 
-    return
