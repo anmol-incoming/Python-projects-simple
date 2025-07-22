@@ -1,0 +1,37 @@
+{
+    "John Doe": {
+        "Pin": "1234",
+        "Portfolio": {
+            "Tata Steel": {
+                "Price": 504.0,
+                "Quantity Owned": 42.0
+            },
+            "JIO": {
+                "Price": 654.32,
+                "Quantity Owned": 12.0
+            }
+        }
+    },
+    "Alice": {
+        "Pin": "5678",
+        "Portfolio": {
+            "AAPL": {
+                "Price": 4302.0,
+                "Quantity Owned": 16.0
+            }
+        }
+    },
+    "Luke Skywalker": {
+        "Pin": "5555",
+        "Portfolio": {
+            "TSLA": {
+                "Price": 6054.0,
+                "Quantity Owned": 13.0
+            },
+            "AAPL": {
+                "Price": 3053.0,
+                "Quantity Owned": 12.0
+            }
+        }
+    }
+}
